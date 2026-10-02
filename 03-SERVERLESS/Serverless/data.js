@@ -1,0 +1,14 @@
+const lessons = [
+  window.lesson00,
+  window.lesson01,
+  window.lesson02,
+  window.lesson03,
+  window.lesson04,
+  window.lesson04review,
+  window.lesson05,
+  window.lesson06,
+  window.lesson07,
+  window.lesson08,
+  window.lesson09,
+  window.lesson10
+].filter(Boolean);
